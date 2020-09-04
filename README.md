@@ -1,7 +1,5 @@
 # wecode 3주차 : git test
 
-This is the raw markdown used to generate the below web content.
-
 ## 금일 시험에 사용한 git 명령어
 
 1. git init : 해당 디렉토리에 git 생성 및 초기화
